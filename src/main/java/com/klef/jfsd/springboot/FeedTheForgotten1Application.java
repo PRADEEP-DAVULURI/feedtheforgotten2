@@ -10,7 +10,7 @@ public class FeedTheForgotten1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FeedTheForgotten1Application.class, args);
-		System.out.println("sdp project is running");
+		System.out.println("hi github");
 	}
 
 }
